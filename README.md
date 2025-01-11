@@ -9,4 +9,4 @@ This project converts images (JPG, PNG, etc.) to a PDF using jsPDF.
 
 # Watch the Video
 
-[Watch the Video](./i2pdf-DEMO.mp4)
+[Click here to watch the video in your browser](./i2pdf-DEMO.mp4)

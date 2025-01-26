@@ -54,3 +54,12 @@ body{
 button:active{
     transform: scale(0.96);
 }
+
+.hidden{
+    visibility: 0;
+    display: none;
+}
+
+.show{
+    display: block;
+}
